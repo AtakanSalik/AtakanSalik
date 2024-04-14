@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGGC48PABypNA/profile-displaybackgroundimage-shrink_350_1400/0/1705864225903?e=1712188800&v=beta&t=t_iBEsppX_GRJxovzJXzOVqmLr2bIf_7TxPEqyQls-g)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFIwCxZTV3-zA/profile-displaybackgroundimage-shrink_350_1400/0/1706724678574?e=1718841600&v=beta&t=9q5bbEgHX0mSh16EktReoclDLADVtNoyeVfTTMoqjKQ)
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">A passionate Software Test Engineer from Turkey</h3>
 
